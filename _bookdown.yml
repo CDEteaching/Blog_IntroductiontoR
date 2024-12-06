@@ -5,7 +5,12 @@ edit: https://github.com/CDEteaching/Blog_IntroductiontoR/edit/main/%s
 view: https://github.com/CDEteaching/Blog_IntroductiontoR/blob/main/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Chapter" # Correctly specify the label for chapters
+
+chapters:
+  - "index.Rmd"
+  - "02-exampleBlog.Rmd"
+
 
 
 

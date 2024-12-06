@@ -2,8 +2,8 @@
 title: "Blogs - Introduction to R"
 author: "ST 2025"
 date: "`r Sys.Date()`"
+output: bookdown::html_document2
 site: bookdown::bookdown_site
 ---
-
 # Overview
 

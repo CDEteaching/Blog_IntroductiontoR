@@ -1,13 +1,4 @@
---- 
-title: "Simons Blog Post"
-author: "06.12.24"
-date: "`r Sys.Date()`"
-output:
-  html_document
----
-
-
-# example blog post
+# Example Blog Post
 
 You are encouraged to create blogs visually engaging  graphs, plots and data tables, and other impactful visualizations. Experiment with diverse methods of displaying data or try to calculate regressions. Treat this as your playground to creatively experiment with the vast array of tools and features R offers. 
 
@@ -49,9 +40,6 @@ clean_data <- function(data) {
 
 # Apply the function to your dataset
 cleaned_data <- clean_data(data)
-
-# View cleaned data
-head(cleaned_data)
 
 ```
 
